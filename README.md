@@ -40,3 +40,6 @@ Abbiamo costruito un MVP end‑to‑end di una dApp di gioco su Avalanche Fuji, 
 [10](https://github.com/alessandroaw/ethersjs-examples)
 MVP della webapp:http://localhost:5173/
 Explorer Snowface per verificare il corretto deploy dei contratti:https://testnet.snowtrace.io/address/0xd8CcC9f498028B05D1a7EEeA2726DC97B56Ef386
+Presentazione del progetto:
+https://www.perplexity.ai/apps/fd25f5d1-5711-4009-99c0-29024749165f
+
